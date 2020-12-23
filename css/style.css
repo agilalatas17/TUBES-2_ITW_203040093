@@ -1,0 +1,165 @@
+nav,
+.sidenav,
+section h1,
+section h3,
+section h4 {
+    font-family: 'Poppins', sans-serif;
+}
+
+p {
+    font-family: 'Nunito Sans', serif;
+    font-size: 16px;
+}
+
+.home,
+.skills,
+.contact {
+    background-color: #020202;
+}
+
+.home p,
+.about p,
+.skills p {
+    font-weight: 300;
+}
+
+/* Section & footer */
+section, footer {
+    padding: 20px;
+}
+
+
+/* All Section */
+section .row {
+    padding-top: 35px;
+}
+
+section h3 {
+    margin: 0;
+    padding: 22px 0 15px;
+    font-weight: bold;
+}
+
+
+
+/* Nav  */
+nav .logo {
+    width: 110px;
+}
+
+nav a:hover {
+    color: #ffc400 !important;
+}
+
+/* Hero Image */
+.home {
+    height: 100vh;
+}
+
+.home .text-wrapper {
+    margin-top: 12%;
+}
+ 
+.home h1 {
+    margin-top: -10px;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.home .social-media a {
+    font-size: 23px;
+    padding: 0 12px;
+    margin-right: 10px;
+}
+
+.home .hero-bg-img {
+    position: relative;
+    height: 500px;
+    background-image: url(../assets/img/profileAgilALatas.jpg);
+    background-repeat: no-repeat;
+}
+
+/* skills */
+.skills .icon {
+    margin-top: 50px;
+}
+
+/* Contact */
+.contact p {
+    margin-top: 80px;
+    font-size: 28px;
+}
+
+.contact .btn:hover {
+    background-color: #ffc400 !important;
+}
+
+/* footer */
+footer {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: space-between;
+}
+
+footer .row {
+    margin: 0;
+}
+
+footer .logo {
+    padding: 20px 11px;
+}
+
+footer .social-media {
+    margin: 30px 0;
+    font-size: 22px;
+}
+
+
+/* Media Queri */
+/* Smartphone */
+
+@media (min-width: 360px) and (max-width: 670px) and (orientation: portrait) {
+    /* Home & About Paragrap */
+    .home p, .about p {
+        font-size: 12px;
+    }
+
+    .home .text-wrapper {
+        margin-top: -50px;
+    }
+
+    .home .hero-bg-img {
+        /* height: 500px; */
+        margin-top: 10px;   
+        background-position: center;
+    }
+
+    .home h4 {
+        font-size: 18px;
+    }
+
+    .home h1 {
+        font-size: 26px;
+    }
+
+    .home .social-media a {
+        font-size: 16px;
+        margin-right: 0;
+        padding-top: -100px;
+    }
+
+
+    /* footer */
+    footer .logo {
+        width: 120px;
+    }
+
+    footer .copyright {
+        font-size: 14px;
+    }
+
+    footer .social-media {
+        font-size: 16px;
+    }
+ }

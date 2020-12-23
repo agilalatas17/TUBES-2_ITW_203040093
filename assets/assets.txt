@@ -1,0 +1,7 @@
+fonts   :   - Poppins, sumber: https://fonts.google.com/specimen/Questrial?query=questr#standard-styles
+            - 
+
+skills  :   icon, sumber : https://www.flaticon.com/
+
+portfolio   :   nama img 1-4, sumber : https://www.instagram.com/raden.arts/
+                nama img 5 & 6, sumber : https://unsplash.com/
