@@ -1,7 +1,22 @@
-fonts   :   - Poppins, sumber: https://fonts.google.com/specimen/Questrial?query=questr#standard-styles
-            - 
+fonts   :   - Poppins       : sumber => Google Fonts
+            - Nunito Sans   : sumber => Google Fonts
 
-skills  :   icon, sumber : https://www.flaticon.com/
+img     :   1. Agil Alatas.png          : sumber => Agil Alatas
+            2. logo putih.png           : sumber => Agil Alatas
+            3. profileAgilAlatas.jpg    : sumber => Agil Alatas
 
-portfolio   :   nama img 1-4, sumber : https://www.instagram.com/raden.arts/
-                nama img 5 & 6, sumber : https://unsplash.com/
+skills  :   1. Ai.png       : sumber => flaticon.com
+            2. css-3.png    : sumber => flaticon.com
+            3. figma.png    : sumber => flaticon.com
+            4. html-5.png   : sumber => flaticon.com
+            5. js.png       : sumber => flaticon.com
+            6. ps.png       : sumber => flaticon.com
+
+portfolio   :   1. portfolio1.jpg : sumber => Agil Alatas (ig: @raden.arts)
+                2. portfolio2.jpg : sumber => Agil Alatas (ig: @raden.arts)
+                3. portfolio3.jpg : sumber => Agil Alatas (ig: @raden.arts)
+                4. portfolio4.jpg : sumber => Agil Alatas (ig: @raden.arts)
+                5. portfolio5.jpg : sumber => Agil Alatas (ig: @raden.arts)
+                6. portfolio6.jpg : sumber => Agil Alatas (ig: @raden.arts)
+                7. portfolio7.jpg : sumber => Unsplash
+                8. portfolio8.jpg : sumber => Unsplash
